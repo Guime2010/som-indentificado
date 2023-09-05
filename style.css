@@ -1,0 +1,18 @@
+body{
+    color: white;
+    background: rgb(251,63,63);
+background: radial-gradient(circle, rgba(251,63,63,1) 0%, rgba(121,14,9,1) 49%);
+    font-family: 'Victor Mono', monospace;
+}
+img{
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 300px;
+}
+.copy_right_footer{
+text-align: center;
+font-size: 25px;
+color: red;
+-webkit-text-stroke: 0.5px white;
+}
